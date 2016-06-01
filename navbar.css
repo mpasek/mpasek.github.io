@@ -1,0 +1,85 @@
+/*TOC*/
+.toc-holder {
+	position: fixed;
+	right: 0;
+    text-align: right;
+	margin-top: -65px;
+    z-index: -10;
+}
+
+/* 3 lines */
+.toc-holder a {
+	color: #4f4f4f;
+    text-decoration: none;
+}
+
+/* 3 lines hover */
+.toc-holder a:hover {
+	color: #ababab;
+}
+
+.toc-holder li a:hover {
+    color: #ababab;
+}
+
+a.toc-link {
+    position: relative;
+    display: block;
+    z-index: -10;
+    min-width:50px;
+    height: 40px;
+    padding-right: 30px;
+	padding-top: 24px;
+    width: 100%;
+}
+
+.toc-link span {
+    font-size: 30px;
+    margin-right: 50px;
+	padding-left: 0;
+    display: inline-block;
+    -webkit-transition: -webkit-transform .6s ease;
+    -moz-transition: -moz-transform .6s ease;
+    -o-transition: -o-transform .6s ease;
+    -ms-transition: -ms-transform .6s ease;
+    transition: transform .6s ease;
+}
+
+.toc-link span.rotate {
+	transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+}
+
+.toc {
+    position: absolute;
+    z-index: -50;
+    opacity: 1.0;
+    right:0px;
+    background: #ffffff;
+    width: auto;
+    padding-top: 60px;
+}
+
+.toc-h1 {
+    list-style: none;
+    margin: 30px;
+    padding: 0;
+    width: auto;
+	color: #000;
+	line-height: 12px;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+}
+
+ul.toc {
+    -webkit-padding-start: 0px;
+}
+
+.closed {
+  display: block;
+}

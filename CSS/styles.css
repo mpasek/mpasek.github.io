@@ -91,7 +91,7 @@ body {
 }
 
 #img-large img{
-	width: 1280px;
+	width: 100%;
 	padding-top: 45px;
 	z-index: 2;
 

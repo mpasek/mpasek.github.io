@@ -14,6 +14,7 @@ body {
 	position: fixed;
   	top: 0;
 	left: 0;
+	align-content: center;
   	font-family: 'Josefin Sans', sans-serif;
 	font-weight: 100;
   	letter-spacing: 0.2em;

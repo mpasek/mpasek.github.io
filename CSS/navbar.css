@@ -1,6 +1,6 @@
 /*TOC*/
 .toc-holder {
-	position: fixed;
+	position: relative;
 	right: 0;
     text-align: right;
 	margin-top: -65px;

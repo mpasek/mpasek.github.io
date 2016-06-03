@@ -1,12 +1,13 @@
 
 body {
-	margin: 0;
+	margin: 0 auto;
   	font-size: 14px;
   	/*font-family: 'Karla', sans-serif;*/
   	line-height: 20px;
   	color: #333333;
   	background-color: #ffffff;
-	max-width: 2600px;
+	max-width: 2200px;
+	
 }
 
 #header {

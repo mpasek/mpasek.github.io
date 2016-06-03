@@ -34,6 +34,16 @@ body {
 	max-width: inherit;
 }
 
+#header .center {
+	max-height: 75px;
+	max-width: inherit;
+}
+
+#header .right {
+	max-height: 75px;
+	max-width: inherit;
+}
+
 #middle {
 	margin: auto;
 	/*background-color: #A9B9C6;*/

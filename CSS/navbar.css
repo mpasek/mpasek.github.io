@@ -3,7 +3,8 @@
 	position: relative;
 	right: 0;
     text-align: right;
-	margin-top: -70px;
+	margin-top: -65px;
+	padding-top: 10px;
     z-index: 100;
 }
 

@@ -29,17 +29,17 @@ body {
 	padding-bottom: 20px;
 }
 
-#header .left {
+#header.left {
 	max-height: 75px;
 	max-width: inherit;
 }
 
-#header .center {
+#header.center {
 	max-height: 75px;
 	max-width: inherit;
 }
 
-#header .right {
+#header.right {
 	max-height: 75px;
 	max-width: inherit;
 }

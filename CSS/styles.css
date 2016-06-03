@@ -6,7 +6,7 @@ body {
   	line-height: 20px;
   	color: #333333;
   	background-color: #ffffff;
-	max-width: 1276px;	
+	/*max-width: 1276px;*/
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -27,6 +27,11 @@ body {
   	z-index: 5;
 	padding-top: 0px;
 	padding-bottom: 20px;
+}
+
+#header .left {
+	max-height: 75px;
+	max-width: inherit;
 }
 
 #middle {

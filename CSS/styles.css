@@ -14,7 +14,7 @@ body {
 	position: fixed;
   	top: 0;
 	left: 0;
-	margin: 0 auto;
+	margin: auto;
   	font-family: 'Josefin Sans', sans-serif;
 	font-weight: 100;
   	letter-spacing: 0.2em;

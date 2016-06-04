@@ -1,6 +1,6 @@
 /*TOC*/
 .toc-holder {
-	position: fixed;
+	position: absolute;
 	right: 0;
     text-align: right;
 	margin-top: -65px;
@@ -9,6 +9,7 @@
 
 /* 3 lines */
 .toc-holder a {
+	position: fixed;
 	color: #4f4f4f;
     text-decoration: none;
 }

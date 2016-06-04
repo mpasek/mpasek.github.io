@@ -1,13 +1,21 @@
 /*TOC*/
 .toc-holder {
+	/*
 	position: relative;
 	right: 0;
     text-align: right;
 	margin-top: -65px;
+    z-index: 10;*/
+	
+	float: right;
+    position: relative;
+    right: 0;
+    text-align: right;
+    padding-right: 30px;
+    padding-top: 20px;
     z-index: 10;
-	width: 30px;
-	margin-left: 1200px;
-	padding-right: 50px;
+    width: 30px;
+	
 }
 
 /* 3 lines */

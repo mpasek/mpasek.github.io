@@ -2,7 +2,6 @@
 body {
 	margin: 0 auto;
   	font-size: 14px;
-  	/*font-family: 'Karla', sans-serif;*/
   	line-height: 20px;
   	color: #333333;
   	background-color: #ffffff;
@@ -33,7 +32,6 @@ body {
 
 #middle {
 	margin: auto;
-	/*background-color: #A9B9C6;*/
 	background-color: #ffffff;
 }
 
@@ -205,42 +203,29 @@ a:hover {
 
 #about {
 	margin-top: -20px;
-	/*background-color: #eae7e7;*/ 
-	/*background-color: #d3d9ea;*/
 	background-color: #f5f8ff;
-	/*height: 715px;*/
 }
 
 #education {
 	background-color: #edcece;
-	/*background-color: #f4f4f4;*/
-	/*background-color: #d39898;*/
-	/*height: 668px;*/
 }
 
 #leadership {
 	background-color: #b5c8da;
-	/*height: 548px;*/
 }
 
 #experience {
 	background-color: #e6d4cf;
-	/*height: 876px;*/
 }
 
 #skills {
 	background-color: #f4f4f4;
-	/*background-color: #cacbd2;*/
-	/*background-color: #ced0dd;*/
-	/*height: 810px;*/
 }
 
 #projects {
 	background-color: #e1e1e1;
-	/*height: 2510px;*/
 }
 
 #contact {
 	background-color: #a9b9c6;
-	/*height: 460px;*/
 }

@@ -1073,8 +1073,8 @@
 
 /* Portrait and Landscape */
 @media only screen 
-  and (min-device-width: 360px) 
-  and (max-device-width: 640px) {
+  and (device-width: 360px) 
+  and (device-height: 640px) {
 	  
 	  body {
 		  width: 360px;
@@ -1158,8 +1158,8 @@
 
 /* Portrait */
 @media only screen 
-  and (min-device-width: 360px) 
-  and (max-device-width: 640px)
+  and (device-width: 360px) 
+  and (device-height: 640px)
   and (orientation: portrait) {
 	  
 	  body {
@@ -1244,8 +1244,8 @@
 
 /* Landscape */
 @media only screen 
-  and (min-device-width: 360px) 
-  and (max-device-width: 640px)
+  and (device-width: 360px) 
+  and (device-height: 640px)
   and (orientation: landscape) {
 	  body {
 		  width: 640px;

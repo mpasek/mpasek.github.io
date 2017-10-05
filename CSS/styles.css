@@ -183,7 +183,7 @@ a:hover {
 .skill {
   	border: 1px solid #000000;
   	margin-right: 10px;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-weight: 500;
 	width: auto;
 	display: inline-block;
@@ -193,33 +193,34 @@ a:hover {
 	margin-top: 0.8em;
 }
 
-.lang {
+.strong {
 	border: double;
 	border-radius: 50px;
 }
 
-.trait {
+.solid {
+	border-radius: 50px;
+}
+
+.familiar {
+	border: dotted 1.95px;
 	border-radius: 50px;
 }
 
 #about {
 	margin-top: -20px;
-	/*background-color: #f5f8ff;*/
 	background-color: #e7eefe;
 }
 
 #education {
-	/*background-color: #edcece;*/
 	background-color: #ced2ea;
 }
 
 #leadership {
-	/*background-color: #b5c8da;*/
 	background-color: #eceff6;
 }
 
 #experience {
-	/*background-color: #e6d4cf;*/
 	background-color: #d0e5f4;
 }
 
@@ -228,9 +229,9 @@ a:hover {
 }
 
 #projects {
-	background-color: #e1e1e1;
+	background-color: #cce1eb;
 }
 
 #contact {
-	background-color: #a9b9c6;
+	background-color: #dcecf9;
 }
